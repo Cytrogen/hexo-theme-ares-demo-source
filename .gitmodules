@@ -1,0 +1,3 @@
+[submodule "themes/ares"]
+	path = themes/ares
+	url = https://github.com/cytrogen/hexo-theme-ares
